@@ -1,4 +1,4 @@
-## Typing Speed Test
+# Typing Speed Test
 
 A web-based typing speed test application built using HTML, CSS, and JavaScript that helps you measure your typing speed, errors, and accuracy.
 
